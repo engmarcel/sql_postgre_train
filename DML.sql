@@ -46,3 +46,11 @@ from orders o ;
 
 select media_de_idade();
 
+insert into "users" ("name", email, birth) 
+values ('Fabrício', 'fabrious@gmail.com', '20010-03-15');
+
+
+
+select  * 
+from users;
+

@@ -98,3 +98,6 @@ RENAME COLUMN nome TO user_name;
 
 alter table "user" 
 rename column data_de_nascimento to user_bith;
+
+----------------------------------------
+
